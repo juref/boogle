@@ -1,3 +1,5 @@
-Lorem ipsum
+Lorem ipsum.
 
-To je dodatna vsebina!
+To je dodatna vsebina.
+
+To je tretja sprememba!
